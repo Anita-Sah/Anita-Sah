@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anita Sah
-- 👀 I’m interested in Business Analytics
+- 👀 I’m interested in Business Analysis
 - 🌱 I’m currently learning PGDM
-- 💞️ I’m looking to collaborate on Data visualization 
+- 💞️ I’m looking to collaborate on Business analysis and Data visualization 
 - 📫 Reach out to me on LinkedIn - www.linkedin.com/in/anita-sah07
 
 <!---
